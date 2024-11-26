@@ -1,0 +1,122 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 188px;
+  width: 360px;
+  height: 74px;
+  justify-content: space-between;
+  background-color: #fff;
+  box-shadow: inset 0px 0.6667px 0px #0a3dda1a;
+}
+.menu1 {
+  width: 86.6667px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8.6667px;
+}
+.interfaceHome1HomeHouseMapRoof {
+  width: 21.3333px;
+  height: 21.3333px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.home {
+  color: #0a1fda;
+  font-size: 12px;
+  line-height: 10.6667px;
+  font-weight: 600;
+  font-family: Geist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu2 {
+  width: 86.6667px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8.6667px;
+}
+.moneyCashierShopShoppingPayPay {
+  width: 21.3333px;
+  height: 21.3333px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.sales {
+  color: #0a1fda;
+  font-size: 12px;
+  line-height: 10.6667px;
+  font-weight: 600;
+  font-family: Geist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu6 {
+  width: 86.6667px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8.6667px;
+}
+.shippingBox2BoxPackageLabelDel {
+  width: 21.3333px;
+  height: 21.3333px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.stocks {
+  color: #0a1fda;
+  font-size: 12px;
+  line-height: 10.6667px;
+  font-weight: 600;
+  font-family: Geist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu4 {
+  width: 86.6667px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8.6667px;
+}
+.interfaceSettingCogWorkLoading {
+  width: 21.3333px;
+  height: 21.3333px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.settings {
+  color: #0a1fda;
+  font-size: 12px;
+  line-height: 10.6667px;
+  font-weight: 600;
+  font-family: Geist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

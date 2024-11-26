@@ -1,0 +1,338 @@
+.field3.field3 {
+  width: initial;
+  height: 72px;
+  flex: initial;
+  align-self: stretch;
+}
+.field {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.field2 {
+  opacity: 0.8;
+  color: #000;
+  font-size: 14px;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.field6.field6 {
+  width: initial;
+  height: 72px;
+  flex: initial;
+  align-self: stretch;
+}
+.field4 {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.field5 {
+  opacity: 0.7;
+  color: #5c5c5c;
+  font-size: 14px;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.field9.field9 {
+  width: initial;
+  height: 123px;
+  flex: initial;
+  align-self: stretch;
+}
+.field7 {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.field8 {
+  color: #3c33443d;
+  font-size: 14px;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.field12.field12 {
+  width: initial;
+  height: 72px;
+  flex: initial;
+  align-self: stretch;
+}
+.field10 {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.field11 {
+  opacity: 0.7;
+  color: #5c5c5c;
+  font-size: 14px;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.icons.icons {
+  width: 20px;
+  height: 20px;
+}
+.icons {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.field14.field14 {
+  width: initial;
+  height: 72px;
+  flex: initial;
+  align-self: stretch;
+}
+.field13 {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.unnamed {
+  opacity: 0.7;
+  color: #5c5c5c;
+  font-size: 14px;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.menu.menu {
+  left: 50%;
+  bottom: 0.5px;
+  top: initial;
+  transform: translateX(-50%);
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 360px;
+  height: 871px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.frame82 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 99px;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: inset 0px -0.5px 0px #0a1fda1a;
+}
+.header {
+  position: absolute;
+  left: 0;
+  top: 43px;
+  width: 360px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: center;
+  gap: 21px;
+  padding: 16px;
+  background-color: #fff0;
+  overflow: hidden;
+}
+.frame1618873489 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 21px;
+}
+.iconChevron_Left {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.addStock {
+  color: #000;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Geist, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.interfaceSettingMenu1ButtonPar {
+  width: 22px;
+  height: 20px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+._8MobileStatusBar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 210px;
+  padding: 11px 15px;
+  background-color: #fff0;
+  overflow: hidden;
+}
+.leftSide {
+  position: relative;
+  width: 54px;
+  height: 21px;
+}
+.time {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 54px;
+  height: 21px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.rightSide {
+  width: 66.6614px;
+  height: 11.336px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.frame1618873514 {
+  position: absolute;
+  left: 0;
+  top: 100px;
+  width: 360px;
+  height: min-content;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 22px;
+}
+.frame1618873520 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 16px;
+  border-radius: 4px;
+  background-color: #0a1fda0a;
+}
+.interfaceAddCircleButtonRemove {
+  width: 24px;
+  height: 24px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.addVariantsColorSizeWeight {
+  color: #0a1fda;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 239px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame1618873512 {
+  position: absolute;
+  left: 0;
+  bottom: 75px;
+  width: 360px;
+  height: min-content;
+  flex-direction: column;
+  padding: 12px 22px;
+  background-color: #fff;
+}
+.frame1618873483 {
+  height: min-content;
+  align-self: stretch;
+  justify-content: center;
+  padding: 16px 13.3333px;
+  border-radius: 6.6667px;
+  background-color: #0a1fda;
+}
+.addStock2 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 112.8%;
+  font-weight: 600;
+  font-family: Geist Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
